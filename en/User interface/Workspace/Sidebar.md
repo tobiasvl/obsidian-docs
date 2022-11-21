@@ -20,7 +20,7 @@ Some tabs can be closed via the right click menu, but some cannot be closed. If 
 
 ### Rearrange tabs
 
-As of July 2021, there’s no way to rearrange the tabs. If you’d find this handy, echo your voice in [this feature request](https://forum.obsidian.md/t/reorder-tabs-of-panels-in-left-sidebar/9812).
+You can rearrange the tabs in a pane by dragging and dropping them with the mouse.
 
 ## Panes
 
